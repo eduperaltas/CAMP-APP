@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "317181361868",
+    "project_id": "campproyect-69a08",
+    "storage_bucket": "campproyect-69a08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317181361868:android:81d1cf0d4cf452a9b0cc69",
+        "android_client_info": {
+          "package_name": "com.example.camp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317181361868-l12v83ee0bgdvl12k1h75bsj6ds2nb13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.camp",
+            "certificate_hash": "abddd580303e084de6e0c954f825b2373702b3d3"
+          }
+        },
+        {
+          "client_id": "317181361868-82pj6sffubp3hm5gsuc767kj6qiut0ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCllJyvtQ-snNfW37nWzNgMySPRz9jwf4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317181361868-82pj6sffubp3hm5gsuc767kj6qiut0ng.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317181361868-h8nq96839j03oc4oo3kmajeksupst13h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.camp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
